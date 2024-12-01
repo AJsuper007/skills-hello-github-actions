@@ -34,3 +34,5 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+
+![RickrollNeverGonnaGiveYouUpGIF](https://github.com/user-attachments/assets/c3f62294-9f7b-486a-8f9c-f83087eae0a3)
